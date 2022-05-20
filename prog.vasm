@@ -1,0 +1,18 @@
+:let r0 = 0j"ayy@a
+:let r1 = 0j"ayy@a
+:let r2 = 0j"ayy@a
+:let r3 = 0j"ayy@a
+:let r4 = 0j"ayy@a
+:let r5 = 0j"ayy@a
+:let r6 = 0j"ayy@a
+:let r7 = 0j"ayy@a
+j"ayy@a
+:let r0 = 1j"ayy@a
+:let r1 = 5j"ayy@a
+:let r0 = 0j"ayy@a
+:if r0 == r1 | 17 | else | + | endif"ayy@a
+:let r1 -= 1j"ayy@a
+:let r2 += 1j"ayy@a
+:if r0 == r0 | 13 | else | + | endif"ayy@a
+G$V
+Halted! Hit ESC then run :let r0 r1 r2 r3 r4 r5 r6 r7 to see register contents.
